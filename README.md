@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Srushti Dange 👋
 
-<!--
-**SrushtiDange/SrushtiDange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Artificial Intelligence & Data Science Student
 
-Here are some ideas to get you started:
+💻 Learning Python, SQL, Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interested in AI, Machine Learning and Software Development
+
+## Skills
+- Python
+- SQL
+- Data Analysis
+- Git & GitHub
+
+## Projects
+- Coming soon...
+
+## Currently Learning
+- Data Structures & Algorithms
+- Machine Learning
+- SQL
+
+## Connect with me
+- LinkedIn: https://www.linkedin.com/in/srushti-dange-9184b1452/
